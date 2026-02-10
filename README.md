@@ -10,8 +10,7 @@ An interactive Power BI dashboard built using a Blinkit-style e-commerce dataset
 
 ## Tools Used
 - Power BI
-- Power <img width="1297" height="722" alt="dashboard-overview" src="https://github.com/user-attachments/assets/e34533b9-c944-467e-9b38-be46c8e4e3a9" />
-Query
+- Power Query
 - DAX
 
 ## Files
